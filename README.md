@@ -16,7 +16,7 @@ The log format looks like so:
 # Installation 
 
 To use and install LoggerBot you require the following:
-..* [Node.js](https://nodejs.org/en/download/)
-..* 
+* [Node.js](https://nodejs.org/en/download/)
+* 
 
 
