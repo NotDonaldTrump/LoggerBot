@@ -12,7 +12,7 @@ Colons can be used to align columns.
 
 | Channel         | Username      | Message                               |
 | --------------- |:-------------:| -------------------------------------:|
-| "general-chat"  | "Parton#8122" | `said <message>`                      |
+| `"general-chat"`  | `"Parton#8122"` | `said "<message>"`                      |
 
 
 
