@@ -10,9 +10,9 @@ Colons can be used to align columns.
 
 Colons can be used to align columns.
 
-| Channel         | Username      |            Message                    |
+| Channel         | Username      | Message                               |
 | --------------- |:-------------:| -------------------------------------:|
-| "general-chat"  | "Parton#8122" | "said <the message that was sent>"    |
+| "general-chat"  | "Parton#8122" | `said <message>`                      |
 
 
 
