@@ -8,7 +8,12 @@ Anybody who has the link however is able to access the log.
 The log format looks like so:
 Colons can be used to align columns.
 
-| Channel        | Username           | Message  |
+Colons can be used to align columns.
+
+| Channel         | Username      | Message                               |
+| --------------- |:-------------:| -------------------------------------:|
+| "general-chat"  | "Parton#8122" | "said <the message that was sent>"    |
+
 
 
 
