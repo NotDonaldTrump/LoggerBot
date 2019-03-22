@@ -26,8 +26,11 @@ Installation:
     - Server Name (e.g, Snotrap's Server)
 6.  Save your config file then run the bot with the following command: npm start
 
-Log files can be found in /Logs/ 
+Log files can be found in /Logs/ with the following output:
 
-Help/Questions/Requets can be made here http://www.snotrap.com/contact.php
+[2019-03-22T17:28:06.079] [MESSAGE] LogBot - "#bot-spam" Parton | 𝓼𝓽𝓪𝓷𝓬𝓮.𝓭#8122 said "test" 
+
+
+Help/Questions/Requests can be made here http://www.snotrap.com/contact.php
 
 Happy Logging!
