@@ -1,32 +1,24 @@
-# LoggerBot for Discord
+ <h3>Installation</h3>
+           <h5>Step By Step</h5>
+           <div></div>
+            <p>© Parton Media</p>
+            <p>LogBot is a Discord server bot which logs messages sent by members, including attachments.</p>
+            <p>LogBot is against Discord's TOC unless you have gained consent from every server member. Use at your own risk, I am <b>NOT</b> responsible for any damages caused.</p>
+            <p>Only members with <b>admin</b> rights will be able to access the log via the <b>>log</b> command which will be sent to them via DM.</p>
+			<p><b>Installation:</b></p>
+            <ol>
+                <li>Download from <a href="files/LogBot-V2.0.1.zip">here</a>.</li>
+                <li>Extract the zip contents</li>
+                <li>Read the <b>README.md</b> file before starting!</li>
+                <li>Run the <b>setup</b> script and wait for the window to close</li>
+                <li>Open the <b>config.js</b> file and change the bot token and server name.</li>
+                <li>Save the <b>config.js</b> file and close it.</li>
+                <li>Run the <b>start</b> script!</li>
+              </ol>  
 
-A [Discord](https://discordapp.com/) bot that logs messages sent to a server including attachments.
-
-# You REQUIRE member consent before logging messages as it is against Discord's TOC's
-
-V2.0.1Beta
-
-Parton - Not to be used without permission, permission can be gained by 
-visiting this [link](http://www.snotrap.com/contact.php)
-
-!!WARNING!!
-THIS BOT GOES AGAINST DISCORD'S TOC UNLESS YOU ASK FOR USER CONSENT
-USE AT YOUR OWN RISK, I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED 
-
-Installation:
-
-1.  Download [here](http://snotrap.com/files/LoggerBot-V2.0.1.zip)
-2.  Extract the file
-3.  Run the file setup and wait for the window to close
-4.  Edit the config.js file then change the bot token and server name, e.g Parton's Server
-5.  Save config.js
-6.  Run the start file!
-
-Log files can be found in /Logs/ with the following output:
-
-### [2019-03-22T17:28:06.079] [MESSAGE] LogBot - "#bot-spam" Parton | 𝓼𝓽𝓪𝓷𝓬𝓮.𝓭#8122 said "test" 
-
-
-Help/Questions/Requests can be directed [here](http://snotrap.com/contact.php)
-
-Happy Logging!
+            		
+            <p>Log files are found in <b>/Logs/</b></p>
+            <p></p>
+            <p>Help/Questions/Requests can be directed <a href="contact.php">here</a></p>
+            <p></p>
+            <p>Happy logging!</p>
