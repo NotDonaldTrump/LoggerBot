@@ -6,29 +6,28 @@ Anybody who has the link however is able to access the log.
 
 # You REQUIRE member consent before logging messages as it is against Discord's TOC's
 
+V2.0.1Beta
 
+Parton - Not to be used without permission, permission can be gained by 
+visiting this link - http://www.snotrap.com/contact.php
 
-The log format looks like so:
+!!WARNING!!
+THIS BOT GOES AGAINST DISCORD'S TOC UNLESS YOU ASK FOR USER CONSENT
+USE AT YOUR OWN RISK, I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED 
 
-| Channel         | Username      | Message                               |
-| --------------- |:-------------:| -------------------------------------:|
-| `"general-chat"`  | `"Parton#8122"` | `said "<message>"`                      |
+Installation:
 
+1.  Download/Clone this repository.
+2.  Open a CMD window and CD to the directory where you downlaoded the bot to.
+3.  Run the following command: npm install
+4.  This will install required files
+5.  Then you will need to edit the config file and input the following data:
+    - Bot Token
+    - Server Name (e.g, Snotrap's Server)
+6.  Save your config file then run the bot with the following command: npm start
 
-# Installation 
+Log files can be found in /Logs/ 
 
-To use and install LoggerBot you require [Node.js](https://nodejs.org/en/download/).
+Help/Questions/Requets can be made here http://www.snotrap.com/contact.php
 
-Onto the installation!
-
-1. Clone or download this repository.
-2. Edit the `config.js` file and replace the bot token and bot activity. Default activity is `Watching Server`.
-3. Open a `CMD` window and `CD` to your directory then execute the command `npm install` to install the dependencies.
-4. Invite the bot to your server you wish to log.
-5. Once completed run it using the following command: `node logbot.js`.
-
-If it is not online check your connection and steps taken.
-
-
-
-
+Happy Logging!
