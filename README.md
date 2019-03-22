@@ -9,7 +9,7 @@ Anybody who has the link however is able to access the log.
 V2.0.1Beta
 
 Parton - Not to be used without permission, permission can be gained by 
-visiting this link - http://www.snotrap.com/contact.php
+visiting this [link](http://www.snotrap.com/contact.php)
 
 !!WARNING!!
 THIS BOT GOES AGAINST DISCORD'S TOC UNLESS YOU ASK FOR USER CONSENT
@@ -29,6 +29,6 @@ Log files can be found in /Logs/ with the following output:
 ### [2019-03-22T17:28:06.079] [MESSAGE] LogBot - "#bot-spam" Parton | 𝓼𝓽𝓪𝓷𝓬𝓮.𝓭#8122 said "test" 
 
 
-Help/Questions/Requests can be directed here: http://www.snotrap.com/contact.php
+Help/Questions/Requests can be directed [here](http://snotrap.com/contact.php)
 
 Happy Logging!
