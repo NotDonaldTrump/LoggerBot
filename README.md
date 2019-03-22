@@ -17,14 +17,12 @@ USE AT YOUR OWN RISK, I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED
 
 Installation:
 
-1.  Download/Clone this repository.
-2.  Open a CMD window and CD to the directory where you downlaoded the bot to.
-3.  Run the following command: npm install
-4.  This will install required files
-5.  Then you will need to edit the config file and input the following data:
-    - Bot Token
-    - Server Name (e.g, Snotrap's Server)
-6.  Save your config file then run the bot with the following command: npm start
+1.  Download [here](http://snotrap.com/files/LoggerBot-V2.0.1.zip)
+2.  Extract the file
+3.  Run the file setup and wait for the window to close
+4.  Edit the config.js file then change the bot token and server name, e.g Parton's Server
+5.  Save config.js
+6.  Run the start file!
 
 Log files can be found in /Logs/ with the following output:
 
