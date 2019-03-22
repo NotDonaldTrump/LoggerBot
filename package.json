@@ -1,0 +1,24 @@
+{
+  "name": "logbot",
+  "version": "2.0.1",
+  "description": "LoggerBot",
+  "main": "logbot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "log4js": "^4.0.2",
+    "opusscript": "^0.0.6",
+    "pm2": "^3.2.9",
+    "quick.db": "^7.0.0-b21",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.0",
+    "simple-youtube-api": "^3.0.1",
+    "when": "^3.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/logbot.js"
+  },
+  "author": "PartonMedia",
+  "license": "ISC"
+}
