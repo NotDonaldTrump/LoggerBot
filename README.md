@@ -14,9 +14,7 @@
                 <li>Open the <b>config.js</b> file and change the bot token and server name.</li>
                 <li>Save the <b>config.js</b> file and close it.</li>
                 <li>Run the <b>start</b> script!</li>
-              </ol>  
-
-            		
+              </ol>    		
             <p>Log files are found in <b>/Logs/</b></p>
             <p></p>
             <p>Help/Questions/Requests can be directed <a href="contact.php">here</a></p>
