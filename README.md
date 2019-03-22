@@ -28,9 +28,9 @@ Installation:
 
 Log files can be found in /Logs/ with the following output:
 
-[2019-03-22T17:28:06.079] [MESSAGE] LogBot - "#bot-spam" Parton | 𝓼𝓽𝓪𝓷𝓬𝓮.𝓭#8122 said "test" 
+# [2019-03-22T17:28:06.079] [MESSAGE] LogBot - "#bot-spam" Parton | 𝓼𝓽𝓪𝓷𝓬𝓮.𝓭#8122 said "test" 
 
 
-Help/Questions/Requests can be made here http://www.snotrap.com/contact.php
+Help/Questions/Requests can be directed here: http://www.snotrap.com/contact.php
 
 Happy Logging!
