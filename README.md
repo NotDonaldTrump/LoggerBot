@@ -7,7 +7,7 @@
             <p>Only members with <b>admin</b> rights will be able to access the log via the <b>>log</b> command which will be sent to them via DM.</p>
 			<p><b>Installation:</b></p>
             <ol>
-                <li>Download from <a href="files/LogBot-V2.0.1.zip">here</a>.</li>
+                <li>Download from <a href="http://www.snotrap.com/files/LogBot-V2.0.1.zip">here</a>.</li>
                 <li>Extract the zip contents</li>
                 <li>Read the <b>README.md</b> file before starting!</li>
                 <li>Run the <b>setup</b> script and wait for the window to close</li>
